@@ -1,0 +1,3 @@
+[submodule "themes/crab"]
+	path = themes/crab
+	url = git@github.com:Grrrben/crab.git

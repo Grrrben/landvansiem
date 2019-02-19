@@ -1,0 +1,45 @@
+baseURL = "http://example.org/"
+languageCode = "nl-NL"
+title = "Het land van Siem"
+theme = "crab"
+summaryLength = 40
+
+[params]
+description = "Over een weiland in de Kalverpolder"
+logoimage = "/images/kikker.jpg"
+mainSections = ["planten", "trivia", "blog"]
+copyright = "<a href='https://creativecommons.org/licenses/by/4.0/'>Creative Commons Attribution 4.0 International License.</a>"
+
+[[menu.main]]
+weight = 1
+name = "Home"
+url = "/"
+
+[[menu.main]]
+weight = 2
+name = "Blog"
+url = "/blog/"
+identifier = "blog"
+
+[[menu.main]]
+weight = 3
+name = "Planten"
+url = "/planten/"
+identifier = "planten"
+#  [[menu.main]]
+#  parent = "planten"
+#  weight = 1
+#  name = "Waterkers"
+#  url = "/planten/waterkers/"
+#
+#  [[menu.main]]
+#  parent = "planten"
+#  weight = 2
+#  name = "Watermunt"
+#  url = "/planten/watermunt/"
+
+[[menu.main]]
+weight = 4
+name = "Trivia"
+url = "/trivia/"
+identifier = "trivia"
