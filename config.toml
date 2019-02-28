@@ -5,7 +5,7 @@ theme = "crab"
 summaryLength = 40
 
 [params]
-description = "Over een weiland in de Kalverpolder"
+description = "Trage avonturen in een drassig weiland"
 logoimage = "/images/kikker.jpg"
 mainSections = ["planten", "trivia", "blog"]
 copyright = "<a href='https://creativecommons.org/licenses/by/4.0/'>Creative Commons Attribution 4.0 International License.</a>"

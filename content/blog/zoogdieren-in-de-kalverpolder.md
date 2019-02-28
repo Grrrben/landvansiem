@@ -15,6 +15,6 @@ Meervleermuis | Hermelijn | Bosmuis
 Watervleermuis | Huispitsmuis | Dwergmuis
 Laatvlieger | Bosspitsmuis | Huismuis
 Mol [x] | Haas [x] | Noordse woelmuis
-Egel | Muskusrat
+Egel | Muskusrat |
 
 Link [Beheerplan Kalverpolder](https://www.vogelwachtzaanstreek.nl/werkgroepen/docs/beheerplan_kalverpolder.pdf)

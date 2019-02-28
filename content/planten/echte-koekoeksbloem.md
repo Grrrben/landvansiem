@@ -1,7 +1,6 @@
 ---
 title: "Echte koekoeksbloem"
 date: 2019-02-10T15:58:07+01:00
-draft: true
 dir: planten
 ---
 

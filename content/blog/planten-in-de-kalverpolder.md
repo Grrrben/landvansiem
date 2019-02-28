@@ -1,5 +1,5 @@
 ---
-title: "Planten Van De Kalverpolder"
+title: "Planten in de Kalverpolder"
 date: 2019-02-13T10:13:07+01:00
 draft: false
 ---
@@ -37,4 +37,4 @@ Grote Kattenstaart   |   Roze winterpostelein   |   Zulte
 Grote kroosvaren   |   Ruwe bies   |   Zwanenbloem [x]
 Grote waterweegbree   |   Schedefonteinkruid   |   Zwarte bes
 
-Link [Beheerplan Kalverpolder](https://www.vogelwachtzaanstreek.nl/werkgroepen/docs/beheerplan_kalverpolder.pdf)
+Link [beheerplan Kalverpolder](https://www.vogelwachtzaanstreek.nl/werkgroepen/docs/beheerplan_kalverpolder.pdf)

@@ -1,7 +1,7 @@
 ---
 title: "Ongewenste Gasten"
 date: 2019-02-10T22:05:24+01:00
-draft: true
+draft: false
 ---
 
 Eigenlijk moet het beleid "natuurlijk" zijn. De natuur zijn vooral zijn gang laten gaan, met een maaibeleid dat de planten niet in de weg zit. Dat is het uitgangspunt voor het weiland. Maar soms heb je indringers. Het is helemaal niet erg als een plantje niet op de gastenlijst stond, maar echt ongewenste gasten kunnen geweigerd worden.

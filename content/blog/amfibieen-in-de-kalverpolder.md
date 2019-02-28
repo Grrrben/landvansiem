@@ -12,4 +12,4 @@ Naam    |      |  &nbsp;
 Rugstreeppad | Gewone pad |  Meerkikker (of Grote groene kikker)
 Kleine watersalamander |  Bruine kikker | Bastaard kikker (of Middelste groene kikker)
 
-Bron: Observaties J.Noordijk, via [Beheerplan Kalverpolder](https://www.vogelwachtzaanstreek.nl/werkgroepen/docs/beheerplan_kalverpolder.pdf)
+Bron: Observaties J.Noordijk, via het [beheerplan Kalverpolder](https://www.vogelwachtzaanstreek.nl/werkgroepen/docs/beheerplan_kalverpolder.pdf)

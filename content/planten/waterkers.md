@@ -1,7 +1,6 @@
 ---
 title: "Waterkers"
 date: 2019-02-10T15:58:07+01:00
-draft: true
 tags: ["eetbaar", "waterplant"]
 dir: planten
 ---
