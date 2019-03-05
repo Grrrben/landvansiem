@@ -9,7 +9,7 @@ Ik geloof zelfs dat het _moet_, als je water minder dan 40 cm diep is _moet_ je 
 Ik geloof ook dat eigenlijk niemand het nog doen, het baggeren.
 
 Vroeger gebeurde het wel. 
-Naast dat je je sloot bij moest houden was het bagger ook geschikt om als een soort B-kwaliteit turf in de kachel te gooien. 
+Naast dat je je sloot bij moest houden was het bagger ook geschikt om als een soort B-kwaliteit turf in de kachel te gooien.
 
 Het levert mooie plaatjes.
 
@@ -27,4 +27,11 @@ Handwerk voor mij dus, op een zonnige dag in februari.
 
 ![Zelf baggeren](/images/bagger_emmer.jpg)
 
+In een oud boekje over de polder las ik dat de plaatselijke visclub Esox klaagt dat er te weinig gebaggerd wordt. 
+Doordat er veel bagger in de sloten blijft is het water troebeler wat slecht is voor de snoekstand. 
+Met andere woorden, als je je water rond je land goed baggert zal er meer snoek zitten.  
 
+Het lijkt me dus een prima idee om de _achterkant_ van mijn land goed leeg te baggeren. 
+Dit is namelijk een stuk polderwater dat niet via wegen bereikbaar is, alleen via het land van mij of mijn buurman. 
+Dus als snoeken van gebaggerd water houden zulen ze dan meer achter mij land te vinden zijn. 
+Ben benieuwd of het me meer vangst opleverd.
