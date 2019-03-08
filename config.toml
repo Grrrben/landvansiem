@@ -43,3 +43,9 @@ weight = 4
 name = "Trivia"
 url = "/trivia/"
 identifier = "trivia"
+
+[[menu.main]]
+weight = 5
+name = "Knipsels & links"
+url = "/knipsels/"
+identifier = "knipsels"

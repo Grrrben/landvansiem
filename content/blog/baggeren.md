@@ -6,12 +6,12 @@ draft: false
 
 Zolang je maar genoeg slootkant hebt hoef je niet naar de sportschool. Baggeren is lichamelijke arbeid genoeg. 
 Ik geloof zelfs dat het _moet_, als je water minder dan 40 cm diep is _moet_ je baggeren. 
-Ik geloof ook dat eigenlijk niemand het nog doen, het baggeren.
+Ik geloof ook dat eigenlijk niemand het nog doet, het baggeren.
 
 Vroeger gebeurde het wel. 
 Naast dat je je sloot bij moest houden was het bagger ook geschikt om als een soort B-kwaliteit turf in de kachel te gooien.
 
-Het levert mooie plaatjes.
+Het levert mooie plaatjes op.
 
 ![Baggeren](/images/baggeren_gieterse_methode.jpg)  
 {{% source lowtechmagazine "https://www.lowtechmagazine.be/2018/05/geschiedenis-baggeren-in-nederland.html" %}}  

@@ -4,7 +4,8 @@ date: 2019-02-10T15:58:07+01:00
 dir: planten
 ---
 
-Fragiel, breekbaar, een zwak gestel. Of juist een pure schoonheid. Kies maar, de echte koekoeksbloem is een plant die aan beide beschrijvingen voldoet.
+Fragiel, breekbaar, een zwak gestel. Of juist een pure schoonheid. 
+Kies maar, de echte koekoeksbloem is een plant die aan beide beschrijvingen voldoet.<!--more-->
 
 ![Echte koekoeksbloem](/images/echte-koekoeksbloem-2.jpg)
 
