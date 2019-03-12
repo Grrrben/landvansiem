@@ -34,4 +34,4 @@ Met andere woorden, als je je water rond je land goed baggert zal er meer snoek 
 Het lijkt me dus een prima idee om de _achterkant_ van mijn land goed leeg te baggeren. 
 Dit is namelijk een stuk polderwater dat niet via wegen bereikbaar is, alleen via het land van mij of mijn buurman. 
 Dus als snoeken van gebaggerd water houden zulen ze dan meer achter mij land te vinden zijn. 
-Ben benieuwd of het me meer vangst opleverd.
+Ben benieuwd of het me meer vangst zal geven.

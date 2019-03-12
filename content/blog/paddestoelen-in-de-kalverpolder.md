@@ -1,43 +1,24 @@
 ---
 title: "Paddestoelen in de Kalverpolder"
-date: 2019-02-13T10:13:07+01:00
-draft: true
+date: 2019-03-12T10:13:07+01:00
 ---
 
-In het Beheerplan Kalverpolder staat een lijst van 78 karakteristieke en/of minder algemene plantensoorten genoemd die in de Kalverpolder voorkomen.
+In totaal zijn er 76 soorten paddestoelen waargenomen tijdens veldonderzoek, 
+maar in het [Beheerplan Kalverpolder](https://www.vogelwachtzaanstreek.nl/werkgroepen/docs/beheerplan_kalverpolder.pdf) 
+staan er maar 18 vermeld. Alle vermelde soorten zijn gevonden op rietpercelen.  
 
-De planten met een [x] achter de naam zijn soorten die ik ook in het weiland heb gevonden.<!--more-->
+De waarnemingen zijn meer dan 10 jaar oud (periode 2002-2005).<!--more-->
 
 Naam    |      |  &nbsp;
 --------|------|------
-Aalbes   |   Haagwinde   |   Slanke waterbies
-Aarvederkruid   |   Hazenzegge   |   Slanke waterkers
-Appelbes   |   Heen   |   Smalle stekelvaren
-Biezenknoppen   |   Kamgras   |   Smalle waterpest
-Bleke basterdwederik   |   Kamvaren   |   Snavelruppia
-Brede stekelvaren   |   Kikkerbeet   |   Sporkehout
-Dubbelloof   |   Krabbenscheer   |   Stijve waterranonkel
-[Echte koekoeksbloem](/planten/echte-koekoeksbloem/) [x]   |   Kruipganzerik   |   Tenger fonteinkruid
-Echte valeriaan   |   Lidsteng   |   Tormentil
-Egelboterbloem   |   Mannetjesvaren   |   Veenpluis
-Gekroesd fonteinkruid   |   Moerasandijvie   |   Veenwortel
-Gele lis   |   Moerasandoorn   |   Watergentiaan
-Gele waterkers   |   Moerasbasterdwederik   |   Watergras
-Geoord helmkruid   |   Moerasmelkdistel   |   Waterkruiskruid
-Gesteelde zannichellia   |   Moerasrolklaver   |   [Watermunt](/planten/watermunt/) [x]
-Gewone dotterbloem   |   Moerasvaren   |   Waterpeper
-Gewone engelwortel [x]   |   Moerasviooltje   |   Waterpunge
-Gewone waternavel   |   Moeraszoutgras   |   Waterscheerling
-Gewoon sterrenkroos   |   Pitrus [x]   |   Wijfjesvaren
-Goudknopje   |   Rietorchis   |   Wilde kamperfoelie
-Grof hoornblad   |   Rode kornoelje   |   Zeegroene rus
-Groot nimfkruid   |   Rode waterereprijs   |   Zilte rus
-Grote egelskop   |   Ronde zonnedauw   |   Zompzegge
-Grote Kattenstaart   |   Roze winterpostelein   |   Zulte
-Grote kroosvaren   |   Ruwe bies   |   Zwanenbloem [x]
-Grote waterweegbree   |   Schedefonteinkruid   |   Zwarte bes
+Elzenzompzwam | Gewoon franjekelkje | Gewone krulzoom
+Witte halminktzwam | Rietwieltje | Zemelige Brandplekbekerzwam 
+Sterspoorsatijnzwam | Suikermycena | Bleke moeraszwavelkop
+Vlokkig veenmosklokje | Draadsteel mycena | Oranjegeel trechtertje
+Veenmosvuurzwammetje | Stinkmycena | Kogelwerper 
+Gewone fopzwam | Zeggemycena | Veenmosgrauwkop
 
-Link [Beheerplan Kalverpolder](https://www.vogelwachtzaanstreek.nl/werkgroepen/docs/beheerplan_kalverpolder.pdf)
+
 
 {{% aside %}}
 ## Lijstjes
