@@ -11,7 +11,7 @@ En bij de buurman staat een hele mooie - dode - perenboom. Maar wel echt een gro
 ![Mondriaan](/images/mondriaan_appels.jpg)  
 {{% caption %}}Mand met appelen van Mondriaan{{% /caption %}}  
 
-Maar wat ik zoek zijn soorten die dus goed tegen vocht kunnen, een hoogstam hebben (het oog wil ook wat, laagstam is 
+Maar wat ik zoek zijn soorten die dus goed tegen vochtige grond kunnen, een hoogstam hebben (het oog wil ook wat, laagstam is 
 meer voor professionele kwekers) en het liefst met onderlinge verschillen in smaak, gebruik en "pluk-periode".  
 
 Nou weet ik dat er in de buurt van spaarnwoude veel bomen van oude appelrassen staan, maar jonkies staan er nooit tussen. 
@@ -49,7 +49,7 @@ Hij bloeit in mei en is zelfbestuivend.
 De bomen zijn al op jonge leeftijd vruchtbaar en kenmerken zich door een geringe ziektegevoeligheid. 
 Eind oktober zijn de vruchten rijp. 
 De vruchten zijn redelijk klein van stuk. 
-Het vruchtvlees is saprijk, friszuur en vast maar met een matige smaak.
+Het vruchtvlees is saprijk, friszuur en vast maar met een matige smaak. (Deze is geplant, NO)
 
 ### Zoete Campagne
 
@@ -62,7 +62,14 @@ Zoete Ermgaard of Armgaard is een zoet appelras dat in 1864 voor het eerst werd 
 Het ras is waarschijnlijk van Nederlandse herkomst en is een tijdlang het belangrijkste zoete appelras geweest. 
 Vooral in Noord- en Zuid-Holland stonden veel hoogstambomen van dit ras. 
 De appel is vrij klein en lichtrood met rode strepen op een gele ondergrond. 
-Zowel geschikt voor stoof- als handappel en is tot half april goed bewaarbaar.
+Zowel geschikt voor stoof- als handappel en is tot half april goed te bewaren. (Deze is geplant, ZW)
+
+>Is een uitmuntende stoofappel, die bij het kooken goed heel blijft, zich goed bewaart, 
+maar op 't laatst wel een weinig slap wordt, al behoudt zij dan toch zeer goed haar smaak.  
+{{% caption %}}Eerste Peren-album, H. De Greeff, 1905.{{% /caption %}}
+
+![Zoete Ermgaard](/images/zoete-ermgaard.jpg)
+{{% caption %}}Zoete Ermgaard{{% /caption %}} 
 
 ## Peren
 
@@ -71,7 +78,7 @@ Zowel geschikt voor stoof- als handappel en is tot half april goed bewaarbaar.
 De suikerpeer is een van de eerste handperen die rijpen in Nederland, meestal rond 10 augustus rijp. 
 De Noordhollandse Suikerpeer vormt een opgaande boom met een grove vertakking. 
 De Noordhollands suikerpeer is pas op latere leeftijd goed vruchtbaar, produceert dan goed. 
-De suikerpeer is weinig gevoelig voor ziektes en groeit op alle niet al te natte gronden.
+De suikerpeer is weinig gevoelig voor ziektes en groeit op alle niet al te natte gronden. (Deze is geplant, NW)
 
 ### Winterjan
 
@@ -95,7 +102,10 @@ Nu is de juttepeer met moeite te vinden, hetgeen vermoedelijk ook te wijten is a
 Een oud ras dat al in de 17e eeuw beschreven werd in Frankrijk. Daar liggen waarschijnlijk ook de roots, maar eind 18e eeuw 
 kwam hij al in de Nederlandse geschiedschrijving voor. Het is een sappige stoofpeer die laat plukrijp is, in oktober. 
 Hij is goed te bewaren tot juni. Vrucht groengeel met lichte stippels, smaak iets zurige.
-De boom groeit goed en is geeft veel vruchten als hij op leeftijd is. 
+De boom groeit goed en is geeft veel vruchten als hij op leeftijd is. (Deze is geplant, ZO)
+
+![Pondspeer](/images/pondspeer.jpg)
+{{% caption %}}Pondspeer{{% /caption %}} 
 
 
 {{% aside %}}

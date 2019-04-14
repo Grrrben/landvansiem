@@ -1,7 +1,6 @@
 ---
 title: "Grote Zilverreiger"
 date: 2019-03-29T21:01:57+01:00
-draft: true
 ---
 
 Bijna dagelijks komen de grote zilverreigers wel even op bezoek. 
