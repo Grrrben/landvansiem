@@ -1,7 +1,6 @@
 ---
 title: "Waterscheerling"
-date: 2019-04-14T20:05:58+02:00
-draft: true
+date: 2019-04-15T20:05:58+02:00
 dir: planten
 ---
 
@@ -19,7 +18,7 @@ Maar zijn bekendste eigenschap is toch wel de giftigheid.
 De wortelstok is namelijk zwaar giftig. 
 Een hapje is genoeg om het loodje te leggen.
 
-Erg nuttig, voor als ik nog eens iemand om wil leggen. 
+Nuttig, voor als ik nog eens iemand om wil leggen. 
 
 ![Waterscheerling](/images/waterscheerling.jpg)
 

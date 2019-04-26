@@ -2,6 +2,7 @@
 title: "Zoogdieren in de Kalverpolder"
 date: 2019-02-01T10:13:07+01:00
 draft: false
+tags: ["zoogdieren", "lijstjes", "inventarisatie"]
 ---
 
 In het [Beheerplan Kalverpolder](https://www.vogelwachtzaanstreek.nl/werkgroepen/docs/beheerplan_kalverpolder.pdf) 

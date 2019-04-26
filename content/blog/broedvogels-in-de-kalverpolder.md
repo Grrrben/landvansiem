@@ -2,6 +2,7 @@
 title: "Broedvogels"
 date: 2019-02-01T10:13:07+01:00
 draft: false
+tags: ["vogels", "lijstjes", "inventarisatie"]
 ---
 
 Natuurlijk zijn er heel veel broedvogels in de Kalverpolder. Het is een natuurgebied waarvan de meeste landjes 

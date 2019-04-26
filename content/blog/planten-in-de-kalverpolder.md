@@ -2,6 +2,7 @@
 title: "Planten in de Kalverpolder"
 date: 2019-02-02T10:13:07+01:00
 draft: false
+tags: ["planten", "lijstjes", "inventarisatie"]
 ---
 
 In het Beheerplan Kalverpolder staat een lijst van 78 karakteristieke en/of minder algemene plantensoorten genoemd die in de Kalverpolder voorkomen.

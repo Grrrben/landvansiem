@@ -1,6 +1,7 @@
 ---
 title: "Paddestoelen in de Kalverpolder"
 date: 2019-02-01T10:13:07+01:00
+tags: ["paddestoelen", "lijstjes", "inventarisatie"]
 ---
 
 In totaal zijn er 76 soorten paddestoelen waargenomen tijdens veldonderzoek, 

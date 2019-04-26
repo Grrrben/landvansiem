@@ -1,6 +1,7 @@
 ---
 title: "Trekvogels in de Kalverpolder"
 date: 2019-02-01T10:13:07+01:00
+tags: ["vogels", "lijstjes", "inventarisatie"]
 ---
 
 Enkele overwinterende en doortrekkende vogels uit het [Beheerplan Kalverpolder](https://www.vogelwachtzaanstreek.nl/werkgroepen/docs/beheerplan_kalverpolder.pdf).

@@ -2,6 +2,7 @@
 title: "Vissen in de Kalverpolder"
 date: 2019-02-01T10:13:07+01:00
 draft: false
+tags: ["vissen", "lijstjes", "inventarisatie"]
 ---
 
 Zomaar vissen in de Kalverpolder mag niet, je moet dan lid zijn van de plaatselijke visvereniging, Esox, die het visrecht in het water pacht.  

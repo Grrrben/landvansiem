@@ -8,9 +8,17 @@ dir: planten
 Het was een van de eerste bloemen van het jaar. 
 29 maart stuurde ik een berichtje dat ik de eerste bloemen had gevonden.
 Paardenbloem en boterbloem niet meetellende dan, want die zijn er dan ook al hoor. 
+Echte bloemen dus, en gelijk een hele bos.
 
 ![Mondriaan](/images/dotterbloem.jpg)  
 {{% caption %}}Unkrauttaflen, E. Korsmo {{% /caption %}} 
+
+Wat jammer is, is dat er maar een plant is in het hele weiland. 
+Zoveel meter waterkant, en toch maar een enkele dotterbloem. 
+Het is een beetje vreemd... 
+
+Edit 26/04/19: Er is nog een dotterbloem, midden op het weiland, in een drassig stukje. 
+Door de vele boterbloemen die er op het moment staan viel hij niet zo op.
 
 ## Kappertjes
 

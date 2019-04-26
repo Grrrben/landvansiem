@@ -2,6 +2,7 @@
 title: "Vlinders in de Kalverpolder"
 date: 2019-02-01T10:13:07+01:00
 draft: false
+tags: ["vlinders", "insecten", "lijstjes", "inventarisatie"]
 ---
 
 Vlinders in de Kalverpolder, waarnemingen uit 2005.<!--more-->
