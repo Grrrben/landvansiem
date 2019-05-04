@@ -1,16 +1,18 @@
 ---
 title: "Zuring"
 date: 2019-04-26T21:22:25+02:00
-draft: true
 dir: planten
 ---
 
 ![Ridderzuring](/images/ridderzuring.jpg)
 
 Zuring is een plant die, weinig verrassend, van zure grond houdt. 
-En hij smaakt ook nog eens zuur. Toch zijn verschillende zuringsoorten wel eetbaar.   
+En hij smaakt ook nog eens zuur. 
+Je hoort wel eens de verhalen van mensen die de stengels als een soort snoepgoed gebruikten.
+Een beetje zoals ik vroeger van de vieze zure matjes at. Eigenlijk helemaal niet lekker.
 
-Op het Land van Siem komen meerdere soorten zuring voor. 
+Maar zuring heeft vele soorten, en dus ben ik maar eens gaan zoeken naar welke soorten er op
+het Land van Siem voorkomen. De teller staat - tot nu toe - op 5 soorten. 
 
 **Veldzuring**  
 
