@@ -14,6 +14,9 @@ Een beetje zoals ik vroeger van de vieze zure matjes at. Eigenlijk helemaal niet
 Maar zuring heeft vele soorten, en dus ben ik maar eens gaan zoeken naar welke soorten er op
 het Land van Siem voorkomen. De teller staat - tot nu toe - op 5 soorten. 
 
+[![Veldzuring](/images/overzicht_zuring_small.jpg)](/images/overzicht_zuring.jpg)
+{{% caption %}}Zuring kleurt het land rood. De zuring die je ziet bloeien is voornamelijk veldzuring. Foto van mei 2019, klik voor vergroting. {{% /caption %}}
+
 **Veldzuring**  
 
 In het engels de Common Sorrel, vrij vertaald de gewone zuring. 

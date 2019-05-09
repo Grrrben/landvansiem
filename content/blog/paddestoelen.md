@@ -1,11 +1,11 @@
 ---
-title: "Een zaterdagoavond"
+title: "Een zaterdagavond"
 date: 2019-05-04T22:05:23+02:00
-draft: true
+tags: ["paddestoelen"]
 ---
 
 Bij rustig weer in de vooravond een rondje varen is een nieuwe hobby van me. 
-Gewoon lekker alleen, met de kano, de kalverpolder in en heel rustig varen. 
+Lekker alleen, met de kano, de kalverpolder in en dan heel rustig varen. 
 Soms even ergens aanleggen, kijken naar vogels, of even de boot uit. 
 
 Eigenlijk is het land verboden terrein voor bezoekers, wat merkbaar is door de 
@@ -26,7 +26,7 @@ met een vraagteken, het oranjegeel trechtertje.
 ![Oranjegeel trechtertje](/images/trechtertje.jpg)  
 {{% caption %}}Oranjegeel trechtertje{{% /caption %}}
 
-![Oranjegeel trechtertje](/images/onderkant.jpg)  
+![Trechtertjes](/images/onderkant.jpg)  
 {{% caption %}}Linksboven het oranjegeel trechtertje, rechtsonder het Paarsharttrechtertje{{% /caption %}}
 
 Beide soorten komen veel voor, dus niks speciaals.

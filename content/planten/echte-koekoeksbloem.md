@@ -7,7 +7,8 @@ dir: planten
 Fragiel, breekbaar, een zwak gestel. Of juist een pure schoonheid. 
 Kies maar, de echte koekoeksbloem is een plant die aan beide beschrijvingen voldoet.<!--more-->
 
-![Echte koekoeksbloem](/images/echte-koekoeksbloem-2.jpg)
+[![Echte koekoeksbloem in de weide](/images/koekoeksbloem-1.jpg)](/images/koekoeksbloem-1.jpg)
+{{% caption %}}Echte koekoeksbloem samen met scherpe boterbloemen, veldzuring, pluimzegge en diverse grassoorten. Foto van mei 2019, klik voor vergroting. {{% /caption %}}
 
 De echte koekoeksbloem is een waardplant voor verschillende vlinders en de 
 [Zilveren maan](https://www.vlinderstichting.nl/vlinders/overzicht-vlinders/details-vlinder/zilveren-maan) zoekt er graag zijn eten. 
@@ -19,11 +20,17 @@ De lagere stukken zijn vaak nat en drassig, zeker na een regenbui staat er nog l
 Dit zijn de stukken waar de echte koekoeksbloem staat (vanaf april ongeveer), 
 en waar er op sommige stukken ook echt veel te vinden zijn.  
 
-Dat is ook de strategie bij natuurorganisaties die bloemweiden willen ontwikkeling; het waterpeil omhoog. 
+[![Echte koekoeksbloem in de weide](/images/koekoeksbloem-2.jpg)](/images/koekoeksbloem-2.jpg)
+{{% caption %}}Echte koekoeksbloem in volle bloei. Foto van mei 2019, klik voor vergroting.{{% /caption %}}
+
+![Echte koekoeksbloem](/images/echte-koekoeksbloem-2.jpg)
+{{% caption %}}Detailfoto van de bloem.{{% /caption %}}
+
+Een drassig weiland is ook de strategie bij natuurorganisaties die bloemweiden willen ontwikkeling; 
+het waterpeil omhoog dus. 
 Als het water net onder het landoppervlakte staat is het een ideaal gebied voor 
 [pinksterbloemen](/planten/pinksterbloem), 
 [dotterbloemen](/planten/dotterbloem) en dus de echte koekoeksbloem.
-
 
 
 ![Echte koekoeksbloem](/images/echte-koekoeksbloem.jpg)

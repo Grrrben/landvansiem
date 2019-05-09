@@ -14,9 +14,10 @@ Oeverzegge dus. Geen gras maar oeverzegge.
 ![Overzegge](/images/zegge.jpg)
 {{% caption %}}Evelyn Simaks, via https://www.geograph.org.uk/profile/14840{{% /caption %}}
 
-Er staan meer zegges in het weiland, zegges schijnen sowieso iets met natte grond te hebben. 
-Dus ja, het past er prima. Waarschijnlijk staat er gewone zegge en moeraszegge, 
-maar die determinatie laat nog even op zich wachten.
+Er staan meer zegges in het weiland, zegges hebben iets met natte grond dus ze passen er ook prima. 
+De determinatie is moeilijk. Pluimzegge, draadzegge en vermoedelijk veenzegge heb ik nog gevonden, 
+maar verdere  laat nog even op zich wachten.
+
 
 ![Carex Riparia](/images/oeverzegge.jpg)  
 
