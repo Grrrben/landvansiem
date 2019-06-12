@@ -13,9 +13,9 @@ De waarnemingen zijn meer dan 10 jaar oud (periode 2002-2005).<!--more-->
 Naam    |      |  &nbsp;
 --------|------|------
 Elzenzompzwam | Gewoon franjekelkje | Gewone krulzoom
-Witte halminktzwam | Rietwieltje | Zemelige Brandplekbekerzwam 
+[Witte halminktzwam](/blog/witte-halminktzwam) | Rietwieltje | Zemelige Brandplekbekerzwam 
 Sterspoorsatijnzwam | Suikermycena | Bleke moeraszwavelkop
-Vlokkig veenmosklokje | Draadsteel mycena | Oranjegeel trechtertje
+Vlokkig veenmosklokje | Draadsteel mycena | [Oranjegeel trechtertje](/blog/paddestoelen/)
 Veenmosvuurzwammetje | Stinkmycena | Kogelwerper 
 Gewone fopzwam | Zeggemycena | Veenmosgrauwkop
 

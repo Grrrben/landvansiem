@@ -1,6 +1,7 @@
 ---
 title: "Uitzicht op het land"
 date: 2019-05-08T15:21:59+02:00
+layout: full
 ---
 
 

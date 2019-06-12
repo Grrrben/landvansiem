@@ -12,7 +12,7 @@ De planten met een [x] achter de naam zijn soorten die ik ook in het weiland heb
 Naam    |      |  &nbsp;
 --------|------|------
 Aalbes   |   Haagwinde   |   Slanke waterbies
-Aarvederkruid   |   Hazenzegge   |   Slanke waterkers
+Aarvederkruid   |   Hazenzegge   |   Slanke waterkers [x]
 Appelbes   |   Heen   |   Smalle stekelvaren
 Biezenknoppen   |   Kamgras   |   Smalle waterpest
 Bleke basterdwederik   |   Kamvaren   |   Snavelruppia
@@ -26,14 +26,14 @@ Gele lis   |   Moerasandoorn   |   Watergentiaan
 Gele waterkers   |   Moerasbasterdwederik   |   Watergras
 Geoord helmkruid   |   Moerasmelkdistel   |   Waterkruiskruid
 Gesteelde zannichellia   |   Moerasrolklaver   |   [Watermunt](/planten/watermunt/) [x]
-Gewone dotterbloem   |   Moerasvaren   |   Waterpeper
-Gewone engelwortel [x]   |   Moerasviooltje   |   Waterpunge
-Gewone waternavel   |   Moeraszoutgras   |   Waterscheerling
+[Gewone dotterbloem](/planten/dotterbloem/) [x]   |   Moerasvaren   |   Waterpeper
+Gewone engelwortel [x]   |   Moerasviooltje   |   [Waterpunge](/planten/waterpunge/) [x]
+Gewone waternavel   |   Moeraszoutgras   |   [Waterscheerling](/planten/waterscheerling/) [x]
 Gewoon sterrenkroos   |   Pitrus [x]   |   Wijfjesvaren
 Goudknopje   |   Rietorchis   |   Wilde kamperfoelie
 Grof hoornblad   |   Rode kornoelje   |   Zeegroene rus
 Groot nimfkruid   |   Rode waterereprijs   |   Zilte rus
-Grote egelskop   |   Ronde zonnedauw   |   Zompzegge
+Grote egelskop   |   Ronde zonnedauw   |   Zompzegge [x?]
 Grote Kattenstaart   |   Roze winterpostelein   |   Zulte
 Grote kroosvaren   |   Ruwe bies   |   Zwanenbloem [x]
 Grote waterweegbree   |   Schedefonteinkruid   |   Zwarte bes
