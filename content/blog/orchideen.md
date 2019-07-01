@@ -9,8 +9,9 @@ Dus de hoop is op nog veel meer orchideeen.
 
 ![Orchis](/images/orchis.jpg)
 
-Het lijkt de [gevlekte orchis](/planten/gevlekte-orchis) te zijn, maar die zie je niet terug in de [lijst met planten](/blog/planten-in-de-kalverpolder). 
-Daar staat we de {{% helptext rietorchis "Dactylorhiza majalis" %}} op, maar de bladeren daarvan hebben veel minder vlekken. 
-Wat overblijft is een compromis, de gevlekte rietorchis, die bestaat ook nog. 
+Het leek me in eerste instantie de gevlekte orchis te zijn, maar die zie je niet terug in de [lijst met planten](/blog/planten-in-de-kalverpolder). 
+Daar staat wel de {{% helptext rietorchis "Dactylorhiza majalis" %}} op, welke ook in gevlekte variant voorkomt, de gevlekte rietorchis. 
 
 Ik wacht rustig tot ze in bloei staan, dat maakt de determinatie een stuk makkelijker.
+
+N.B. De Werkgroep Europese Orchideeën heeft een [determinatiekaart](https://www.knnv.nl/sites/www.knnv.nl/files/Zoekkaart%20Orchideeen.pdf) gemaakt.

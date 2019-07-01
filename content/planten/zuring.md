@@ -4,7 +4,7 @@ date: 2019-04-26T21:22:25+02:00
 dir: planten
 ---
 
-![Ridderzuring](/images/ridderzuring.jpg)
+![Bermzuring](/images/bermzuring.jpg)
 
 Zuring is een plant die, weinig verrassend, van zure grond houdt. 
 En hij smaakt ook nog eens zuur. 
@@ -37,8 +37,13 @@ De mooiste van het stel.
 
 **Ridderzuring** 
 
-Ridderzuring is vaak een hele brede plant. 
-Waar andere zuring graag een beetje in de hoogte schiet lijkt deze zich meer te focussen op de breedte. Het plaatje bovenaan is een ridderzuring.
+Ridderzuring wordt vaak beschouwd als een zeer lastig onkruid dat chemisch kan worden bestreden of anders geheel uitgegraven moet worden. 
+In het land van Siem staan er een paar, en ze mogen best blijven.
+
+**Bermzuring**
+
+Bermzuring is vaak een hele brede plant. 
+Waar andere zuring graag een beetje in de hoogte schiet lijkt deze zich meer te focussen op de breedte. Het plaatje bovenaan is een bermzuring.
 
 **Waterzuring**
 
