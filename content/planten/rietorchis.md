@@ -20,6 +20,20 @@ Langs de Leeghwaterweg groeien er tientallen, en op bepaalde polderlandjes groei
 [![Rietorchis](/images/orgi-van-orchis-klein.jpg)](/images/orgi-van-orchis-groot.jpg)
 {{% caption %}}De Kalverpolder heeft plekken waar orchideeën massaal voorkomen.{{% /caption %}}  
 
+Op het land groeien ook een paar [grote ratelaars](/planten/ratelaar.md), een plantje dat parasiteert op grassen.
+Doordat het gras lager blijft heeft de ratelaar meer kans om te groeien en bestoven te worden.  
+
+Ook voor het bestuiven maakt de rietorchis gebruik van de ratelaar. 
+De plant maakt zelf geen nectar aan, en moet dus bezocht worden door hommels die 'toevallig' in de buurt zijn. 
+Ook hier komt de ratelaar weer van pas, die wel nectar in de aanbieding heeft.
+
+De rietorchis is dus de hommels een beetje aan het belazeren, door ze geen beloning te geven.
+Om dit vol te houden komen ze in verschillende verschijningen voor. 
+De bloemen zijn licht roze tot paars, met donkere vlekken, streepjes, of ineens helemaal egaal. 
+Zo zorgen ze dat de hommels per ongeluk doorgaan met bestuiven. 
+
+De kleur en het patroon is dus geen variatie op de soort maar een sluwe overlevingsstrategie. 
+
 {{% aside %}}
 ## Inhoud
 {{% tree %}}

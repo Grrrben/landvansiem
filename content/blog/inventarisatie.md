@@ -3,8 +3,8 @@ title: "Inventarisatie"
 date: 2019-06-28T10:01:28+02:00
 ---
 
-Op 27 juni zijn alle planten van het land van Siem in kaart gebracht. 
-Het gaat om 80 verschillende soorten. 
+Op 27 juni zijn de planten van het land van Siem in kaart gebracht. 
+Het gaat om zeker 80 verschillende soorten. 
 De lijst is niet helemaal compleet omdat het echt om een momentopname gaat. 
 Enkele echte voorjaarsplanten zullen bijvoorbeeld ontbreken.
 
@@ -62,17 +62,20 @@ Liggende vetmuur
 Grauwe wilg  
 Zwarte els  
 
+**Biezen**
+
+Ruwe Bies  
+Heen  
+Slanke waterbies  
+
 **Russen**
 
 Ziltrus  
 Zomprus  
 Greppelrus  
-Padderus (?)  
+Paddenrus (?)  
 Pitrus  
 Biezenknoppen  
-Ruwe Bies  
-Heen  
-Slanke waterbies  
 
 **Zeggen**
 
@@ -93,7 +96,6 @@ Reukgras
 Fioringras  
 Gestreepte Witbol  
 Engels Raaigras  
-Riet  
 Kropaar  
 Mannagras  
 Rietgras  
