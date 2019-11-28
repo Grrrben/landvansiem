@@ -1,6 +1,7 @@
 ---
 title: "Zomprus"
 date: 2019-09-05T13:42:41+02:00
+dir: planten
 ---
 
 Zomprus is een zeer algemeen voorkomende plant  van natte, voedselrijke, zoete of brakke grond in graslanden. 
@@ -17,3 +18,8 @@ Op zomprus vind je soms een vergroeing door de Russenbladvlo (Livia junci) waarb
 ![zomprus gal](/images/zomprus-gal.jpg)
 
 Naast zomprus staat er ook zilte rus, paddenrus, ziltige greppelrus, pitrus en biezenknoppen op het land van Siem.
+
+{{% aside %}}
+## Inhoud 
+{{% tree %}}
+{{% /aside %}}
