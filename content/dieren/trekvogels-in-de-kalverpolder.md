@@ -5,7 +5,7 @@ tags: ["vogels", "lijstjes", "inventarisatie"]
 ---
 
 Enkele overwinterende en doortrekkende vogels uit het [Beheerplan Kalverpolder](https://www.vogelwachtzaanstreek.nl/werkgroepen/docs/beheerplan_kalverpolder.pdf).
-Er is ook een lijst met [broedvogels](/blog/broedvogels-in-de-kalverpolder/). De lijst hieronder is van dubbele soorten ontdaan.
+Er is ook een lijst met [broedvogels](/dieren/broedvogels-in-de-kalverpolder/). De lijst hieronder is van dubbele soorten ontdaan.
 
 De vogels met een [x] achter de naam zijn soorten die ik ook in het weiland heb gezien.
 
@@ -32,8 +32,8 @@ Huiszwaluw | Sijs | Zwarte mees
 
 {{% aside %}}
 ## Lijstjes
-Er zijn lijsten met [planten](/blog/planten-in-de-kalverpolder/), [vissen](/blog/vissen-in-de-kalverpolder/), 
-[zoogdieren](/blog/zoogdieren-in-de-kalverpolder/), [amfibieen](/blog/amfibieen-in-de-kalverpolder/), 
-[vlinders](/blog/vlinders-in-de-kalverpolder/) en [libellen](/blog/libellen-in-de-kalverpolder/). 
-De vogels zijn onderverdeeld in [broedvogels](/blog/broedvogels-in-de-kalverpolder/) en [trekvogels](/blog/trekvogels-in-de-kalverpolder/).
+Er zijn lijsten met [planten](/blog/planten-in-de-kalverpolder/), [vissen](/dieren/vissen-in-de-kalverpolder/), 
+[zoogdieren](/dieren/zoogdieren-in-de-kalverpolder/), [amfibieen](/dieren/amfibieen-in-de-kalverpolder/), 
+[vlinders](/dieren/vlinders-in-de-kalverpolder/) en [libellen](/dieren/libellen-in-de-kalverpolder/). 
+De vogels zijn onderverdeeld in [broedvogels](/dieren/broedvogels-in-de-kalverpolder/) en [trekvogels](/dieren/trekvogels-in-de-kalverpolder/).
 {{% /aside %}}

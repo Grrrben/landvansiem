@@ -13,17 +13,17 @@ Soorten met een [x] achter de naam zijn dieren die gespot zijn in het Land van S
 
 Naam    |      |  &nbsp;
 --------|------|------
-Dwergvleermuis | Bunzing | Bruine rat
-Meervleermuis | Hermelijn | Bosmuis
-Watervleermuis | Huispitsmuis | Dwergmuis
+Dwergvleermuis [x] | Bunzing | Bruine rat
+Meervleermuis [x] | Hermelijn | Bosmuis
+Watervleermuis | Huispitsmuis | Dwergmuis [x] 
 Laatvlieger | Bosspitsmuis | Huismuis
 Mol [x] | Haas [x] | Noordse woelmuis
 Egel | Muskusrat |
 
 {{% aside %}}
 ## Lijstjes
-Er zijn lijsten met [planten](/blog/planten-in-de-kalverpolder/), [vissen](/blog/vissen-in-de-kalverpolder/), 
-[zoogdieren](/blog/zoogdieren-in-de-kalverpolder/), [amfibieen](/blog/amfibieen-in-de-kalverpolder/), 
-[vlinders](/blog/vlinders-in-de-kalverpolder/) en [libellen](/blog/libellen-in-de-kalverpolder/). 
-De vogels zijn onderverdeeld in [broedvogels](/blog/broedvogels-in-de-kalverpolder/) en [trekvogels](/blog/trekvogels-in-de-kalverpolder/).
+Er zijn lijsten met [planten](/blog/planten-in-de-kalverpolder/), [vissen](/dieren/vissen-in-de-kalverpolder/), 
+[zoogdieren](/blog/zoogdieren-in-de-kalverpolder/), [amfibieen](/dieren/amfibieen-in-de-kalverpolder/), 
+[vlinders](/dieren/vlinders-in-de-kalverpolder/) en [libellen](/dieren/libellen-in-de-kalverpolder/). 
+De vogels zijn onderverdeeld in [broedvogels](/dieren/broedvogels-in-de-kalverpolder/) en [trekvogels](/dieren/trekvogels-in-de-kalverpolder/).
 {{% /aside %}}

@@ -47,8 +47,8 @@ Deze lijst komt uit het [beheerplan Kalverpolder](https://www.vogelwachtzaanstre
 
 {{% aside %}}
 ## Lijstjes
-Er zijn lijsten met [planten](/blog/planten-in-de-kalverpolder/), [vissen](/blog/vissen-in-de-kalverpolder/), 
-[zoogdieren](/blog/zoogdieren-in-de-kalverpolder/), [amfibieen](/blog/amfibieen-in-de-kalverpolder/), 
-[vlinders](/blog/vlinders-in-de-kalverpolder/) en [libellen](/blog/libellen-in-de-kalverpolder/). 
-De vogels zijn onderverdeeld in [broedvogels](/blog/broedvogels-in-de-kalverpolder/) en [trekvogels](/blog/trekvogels-in-de-kalverpolder/).
+Er zijn lijsten met [planten](/blog/planten-in-de-kalverpolder/), [vissen](/dieren/vissen-in-de-kalverpolder/), 
+[zoogdieren](/dieren/zoogdieren-in-de-kalverpolder/), [amfibieen](/dieren/amfibieen-in-de-kalverpolder/), 
+[vlinders](/dieren/vlinders-in-de-kalverpolder/) en [libellen](/dieren/libellen-in-de-kalverpolder/). 
+De vogels zijn onderverdeeld in [broedvogels](/dieren/broedvogels-in-de-kalverpolder/) en [trekvogels](/dieren/trekvogels-in-de-kalverpolder/).
 {{% /aside %}}
