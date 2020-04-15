@@ -5,10 +5,12 @@ draft: true
 dir: planten
 ---
 
-Ook wel schijngrassen gebnoemt.
+Ook wel schijngrassen genoemt.
 
 Valse Voszegge
 [Oeverzegge](/planten/oeverzegge/)
+Zwarte zegge
+Hazenzegge
 
 {{% aside %}}
 ## Inhoud

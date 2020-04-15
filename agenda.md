@@ -13,5 +13,7 @@
          Veenmos op middenstuk verspreid.
 28/09/19 Veenpluis uit Holten geplant op MW.
          Zwanenbloemen in de dwars-slootjes op MO.
-20/10/19 Veenmos NW uitgestrooid
+20/10/19 Veenmos midden NW uitgestrooid
          Kleine lisdodde uitgestrooid op inham in oever NW
+31/11/19 Maaien west
+17/01/20 Veenmos midden NW uitgestrooid

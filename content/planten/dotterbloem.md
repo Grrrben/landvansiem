@@ -15,7 +15,13 @@ Echte bloemen dus, en gelijk een hele bos.
 
 Wat jammer is, is dat er maar een plant is in het hele weiland. 
 Zoveel meter waterkant, en toch maar een enkele dotterbloem. 
-Het is een beetje vreemd... 
+
+Dotterbloemen zijn kritische planten. En in veel opzichten voldoet het Land van Siem prima; 
+Het is er drassig, er is weinig bemesting en er wordt pas laat gemaaid. 
+Ook het jzerhoudend water wat in de binnenslootjes en greppels staat houden ze erg van. 
+Het enige is dat ze niet van een zoute bodem houden. Dus waarschijnlijk is het iets van vroeger.
+Maar waar de zilt lievende plantjes langzaam afnemen, zal de dotterbloem vast toenamen. 
+Dat doet hij op meerdere plekken (waterkanten) in de polder al... 
 
 Edit 26/04/19: Er is nog een dotterbloem, midden op het weiland, in een drassig stukje. 
 Door de vele boterbloemen die er op het moment staan viel hij niet zo op.
@@ -29,7 +35,6 @@ maar je kan van de bloemknoppen kappertjes maken. Duitse kappertjes, heet het da
 Hooi met een geringe hoeveelheid dotterbloemen kan voor vee geen kwaad, 
 maar grote hoeveelheden leiden tot spijsverteringsstoringen.   
 {{% caption %}}Via [Wikipedia](https://nl.wikipedia.org/wiki/Gewone_dotterbloem){{% /caption %}} 
-
 
 Op internet staan verschillende recepten, het komt hier ongeveer op neer:
 

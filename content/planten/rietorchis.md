@@ -27,12 +27,17 @@ Ook voor het bestuiven maakt de rietorchis gebruik van de ratelaar.
 De plant maakt zelf geen nectar aan, en moet dus bezocht worden door hommels die 'toevallig' in de buurt zijn. 
 Ook hier komt de ratelaar weer van pas, die wel nectar in de aanbieding heeft.
 
-De rietorchis is dus de hommels een beetje aan het belazeren, door ze geen beloning te geven.
-Om dit vol te houden komen ze in verschillende verschijningen voor. 
-De bloemen zijn licht roze tot paars, met donkere vlekken, streepjes, of ineens helemaal egaal. 
+De rietorchis is dus de hommels een beetje aan het belazeren, door ze geen beloning te geven. 
+En omdat er geen nectar voor de hommels is zouden deze normaal stoppen met het bezoeken van de bloemen van de rietorchis.  
+ 
+Om dit te voorkomen komen de bloemen in verschillende verschijningsvormen voor. 
+Van licht roze tot paars, met donkere vlekken, streepjes, of ineens helemaal egaal. 
 Zo zorgen ze dat de hommels per ongeluk doorgaan met bestuiven. 
 
 De kleur en het patroon is dus geen variatie op de soort maar een sluwe overlevingsstrategie. 
+
+- In 2019 zijn er in totaal 6 rietorchissen geteld. 
+- De eerste orchis van 2020 is gespot op 11 april.
 
 {{% aside %}}
 ## Inhoud

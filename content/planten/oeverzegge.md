@@ -11,13 +11,11 @@ wordt. En die aren zag ik vandaag voor het eerst.
 
 Oeverzegge dus. Geen gras maar oeverzegge. 
 
-![Overzegge](/images/zegge.jpg)
+![Oeverzegge](/images/zegge.jpg)
 {{% caption %}}Evelyn Simaks, via https://www.geograph.org.uk/profile/14840{{% /caption %}}
 
 Er staan meer zegges in het weiland, zegges hebben iets met natte grond dus ze passen er ook prima. 
-De determinatie is moeilijk. Pluimzegge, draadzegge en vermoedelijk veenzegge heb ik nog gevonden, 
-maar verdere  laat nog even op zich wachten.
-
+De determinatie is voor de bloei en zaadvorming lastig, maar wat zeker aanwezig is zijn valse voszegge, zwarte zegge en hazenzegge.
 
 ![Carex Riparia](/images/oeverzegge.jpg)  
 
