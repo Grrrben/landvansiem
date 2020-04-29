@@ -14,8 +14,7 @@ Het verschil tussen de ruwe bies en de mattenbies zit in de aren.
 De roodbruine kafjes hebben talrijke rode wratjes waardoor ze ruw aanvoelen. 
 
 De plant komt vooral voor in brak water aan oevers van sloten, duinplassen en rietlanden. 
-De soort kan onder water ontkiemen. 
-In het land van Siem staat de bies in voormalige slootjes. 
+De soort kan onder water ontkiemen en in het land van Siem vind je ze ook veel in voormalige slootjes. 
 
 Ruwe bies moet om het jaar gemaaid worden. 
 Vaker maaien zorgt voor achteruitgang, minder maaien tot verdere verlanding en verruiging.

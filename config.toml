@@ -4,6 +4,9 @@ title = "Het land van Siem"
 theme = "crab"
 summaryLength = 40
 
+[markup.goldmark.renderer]
+unsafe= true
+
 [params]
 description = "Trage avonturen in een drassig weiland"
 logoimage = "/images/kikker.jpg"

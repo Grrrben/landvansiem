@@ -8,9 +8,10 @@ Het gaat om zeker 80 verschillende soorten.
 De lijst is niet helemaal compleet omdat het echt om een momentopname gaat. 
 Enkele echte voorjaarsplanten zullen bijvoorbeeld ontbreken.
 
-Echte Koekoeksbloem  
+Echte Koekoeksbloem*  
 Pinksterbloem  
 Grote weegbree  
+Gekartelde Weegbree* (?)  
 Smalle Weegbree  
 Akkerdistel  
 Kale Jonker  
@@ -56,6 +57,8 @@ Zwanenbloem
 Kikkerbeet  
 Dotterbloem  
 Liggende vetmuur  
+Vogelmuur*
+Roze dovenetel*
 
 **Bomen**
 
@@ -73,6 +76,7 @@ Slanke waterbies
 Ziltrus  
 Zomprus  
 Greppelrus  
+Zilte Greppelrus  
 Paddenrus (?)  
 Pitrus  
 Biezenknoppen  
@@ -80,7 +84,7 @@ Biezenknoppen
 **Zeggen**
 
 Valse Voszegge  
-Hazezegge  
+Hazenzegge  
 Zwarte zegge  
 Oeverzegge 
 
@@ -100,6 +104,7 @@ Kropaar
 Mannagras  
 Rietgras  
 Riet  
+Ruw Beemdgras*  
 
 **Waterplanten**
 
@@ -107,3 +112,4 @@ Groot Nimfkruid
 Grof Hoornblad  
 Schedefonteinkruid  
 
+*)  Op 11 april 2020 hebben we nogmaals alles in kaart gebracht, enkele toevoegingen zijn in de lijst gezet.
