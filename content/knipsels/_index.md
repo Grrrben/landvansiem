@@ -3,29 +3,34 @@ title: "Knipsels"
 date: 2019-02-10T17:53:08+01:00
 ---
 
+### [Iedereen een beetje boer, voor een bruisend boerenland](https://www.nrc.nl/nieuws/2020/05/19/iedereen-een-beetje-boer-a4000187#/handelsblad/2020/05/23/#520)
+
+> Het boerenland van vroeger barstte van het bodemleven. Land van Ons probeert dat terug te brengen. „We zouden willen dat elke Nederlander mede-eigenaar wordt van een stukje land.”
+
+NRC, 23 mei 2020  
+Zie ook de website van [Land van Ons](https://landvanons.nl/).
+
 Een verzameling krantenknipsels en links over de Kalverpolder, veenweiden etc.
 
-Wandelnet, enige tijd geleden
+### [Vroege Vogels over de roerdomp](https://www.bnnvara.nl/vroegevogels/artikelen/hoempende-roerdompen-in-het-ilperveld)
 
-[Butterfly numbers fall by 84% in Netherlands over 130 years ](https://www.theguardian.com/environment/2019/apr/01/butterfly-numbers-fall-by-84-in-netherlands-over-130-years-study)  
+> Hoempende roerdompen in het Ilperveld
+
+De roerdomp komt redelijk veel voor in het Ilperveld. Maar ook op het Land van Siem is hij een [graag geziene gast](/blog/roerdomp).
+
+### [Butterfly numbers fall by 84% in Netherlands over 130 years](https://www.theguardian.com/environment/2019/apr/01/butterfly-numbers-fall-by-84-in-netherlands-over-130-years-study)  
 
 > European insect populations shrink as farming leaves ‘hardly any room for nature’.
 
 The Guardian, 1 april 2019
 
-[Nederland verliest in hoog tempo zijn weidevogels ](https://www.trouw.nl/groen/nederland-verliest-in-hoog-tempo-zijn-weidevogels-~a874abd2/)  
+### [Nederland verliest in hoog tempo zijn weidevogels](https://www.trouw.nl/groen/nederland-verliest-in-hoog-tempo-zijn-weidevogels-~a874abd2/)  
 
 > Volgens Vogelbescherming Nederland dreigen patrijs, zomertortel, watersnip en wulp binnen tien jaar in een aantal provincies uit te sterven, als de trend niet wordt gekeerd.
 
 Trouw, 5 maart 2019
 
-[Een miljoen huizen dreigen te verzakken, mede door droge zomer](https://www.trouw.nl/home/een-miljoen-huizen-dreigen-te-verzakken-mede-door-droge-zomer~ada17a97/)
-
-> De funderingsproblematiek is verergerd door de ernstige droogte van vorig jaar. Die heeft ervoor gezorgd dat het grondwaterpeil zeer sterk is gedaald en nog steeds niet op het oude niveau terug is. Daardoor klinkt de bodem op een aantal plaatsen in het land verder in, met name in klei- en veengebieden.
-
-Trouw, 23 februari 2019
-
-[Natte landbouw, met lisdodde, helpt tegen klimaatverandering](https://www.trouw.nl/groen/natte-landbouw-met-lisdodde-helpt-tegen-klimaatverandering~a6f0c92a/)
+### [Natte landbouw, met lisdodde, helpt tegen klimaatverandering](https://www.trouw.nl/groen/natte-landbouw-met-lisdodde-helpt-tegen-klimaatverandering~a6f0c92a/)
 
 > Wanneer droge weilanden of maisakkers onder water worden gezet om er lisdodde op te telen, kan dat de uitstoot van CO2 uit veenbodems drastisch beperken.  
 

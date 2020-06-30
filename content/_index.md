@@ -11,5 +11,9 @@ Er zat een weiland bij, dat we het Land van Siem hebben gedoopt, naar de eerdere
 
 Veel mensen vragen zich af wat we eigenlijk met zoveel land moeten, een halve hectare. 
 Land waar je eigenlijk niet zoveel mee mag vanwege de bestemming en beschermde status en het heeft wel een beetje 
-onderhoud nodig natuurlijk. Ach, we vragen het onszelf ook weleens af. Maar er zijn maar weinig mensen met een eigen stukje natuur, een eigen landschap om doorheen te lopen.
+onderhoud nodig natuurlijk. Ach, we vragen het onszelf ook weleens af. 
+Maar er zijn maar weinig mensen met een eigen stukje natuur, een eigen landschap om doorheen te lopen.
 Je mag jaloers zijn.
+
+Er is een lijstje met de [planten](/blog/inventarisatie) die op het land voorkomen, 
+en bij steeds meer staat een [beschrijving](/planten).
