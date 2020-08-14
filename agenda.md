@@ -17,3 +17,7 @@
          Kleine lisdodde uitgestrooid op inham in oever NW
 31/11/19 Maaien west
 17/01/20 Veenmos midden NW uitgestrooid
+02/08/20 Veendwergzegge en egelboterbloem uit Renkum gezaaid naast middensloot O.
+09/08/20 Kleine plantjes van wateraardbei en grote ratelaar geplant in W naast de tussen greppel, 
+         ook zaadjes van egelboterbloem en paddenrus.
+         

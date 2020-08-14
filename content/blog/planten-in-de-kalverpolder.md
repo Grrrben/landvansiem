@@ -11,32 +11,32 @@ De planten met een [x] achter de naam zijn soorten die ik ook in het weiland heb
 
 Naam    |      |  &nbsp;
 --------|------|------
-Aalbes   |   Haagwinde   |   Slanke waterbies
-Aarvederkruid   |   Hazenzegge   |   Slanke waterkers [x]
-Appelbes   |   Heen   |   Smalle stekelvaren
-Biezenknoppen   |   Kamgras   |   Smalle waterpest
+Aalbes   |   Haagwinde [x]   |   Slanke waterbies [x]
+Aarvederkruid   |   Hazenzegge [x]   |   Slanke waterkers [x]
+Appelbes   |   Heen [x]   |   Smalle stekelvaren
+Biezenknoppen [x]   |   Kamgras [x]   |   Smalle waterpest
 Bleke basterdwederik   |   Kamvaren   |   Snavelruppia
-Brede stekelvaren   |   Kikkerbeet   |   Sporkehout
+Brede stekelvaren [x]   |   Kikkerbeet [x]   |   Sporkehout
 Dubbelloof   |   Krabbenscheer   |   Stijve waterranonkel
 [Echte koekoeksbloem](/planten/echte-koekoeksbloem/) [x]   |   Kruipganzerik   |   Tenger fonteinkruid
 Echte valeriaan   |   Lidsteng   |   Tormentil
 Egelboterbloem   |   Mannetjesvaren   |   Veenpluis
-Gekroesd fonteinkruid   |   Moerasandijvie   |   Veenwortel
-Gele lis   |   Moerasandoorn   |   Watergentiaan
+Gekroesd fonteinkruid   |   Moerasandijvie   |   Veenwortel [x]
+Gele lis [x]   |   Moerasandoorn [x]   |   Watergentiaan
 Gele waterkers   |   Moerasbasterdwederik   |   Watergras
-Geoord helmkruid   |   Moerasmelkdistel   |   Waterkruiskruid
+Geoord helmkruid   |   Moerasmelkdistel   |   Waterkruiskruid [x]
 Gesteelde zannichellia   |   Moerasrolklaver   |   [Watermunt](/planten/watermunt/) [x]
 [Gewone dotterbloem](/planten/dotterbloem/) [x]   |   Moerasvaren   |   Waterpeper
 Gewone engelwortel [x]   |   Moerasviooltje   |   [Waterpunge](/planten/waterpunge/) [x]
-Gewone waternavel   |   Moeraszoutgras   |   [Waterscheerling](/planten/waterscheerling/) [x]
+Gewone waternavel   |   Moeraszoutgras [x]   |   [Waterscheerling](/planten/waterscheerling/) [x]
 Gewoon sterrenkroos   |   Pitrus [x]   |   Wijfjesvaren
-Goudknopje   |   Rietorchis   |   Wilde kamperfoelie
+Goudknopje   |   Rietorchis [x]   |   Wilde kamperfoelie
 Grof hoornblad   |   Rode kornoelje   |   Zeegroene rus
-Groot nimfkruid   |   Rode waterereprijs   |   Zilte rus
+Groot nimfkruid [x]   |   Rode waterereprijs   |   Zilte rus [x]
 Grote egelskop   |   Ronde zonnedauw   |   Zompzegge [x?]
 Grote Kattenstaart   |   Roze winterpostelein   |   Zulte
 Grote kroosvaren   |   Ruwe bies   |   Zwanenbloem [x]
-Grote waterweegbree   |   Schedefonteinkruid   |   Zwarte bes
+Grote waterweegbree   |   Schedefonteinkruid [x]   |   Zwarte bes
 
 Link [beheerplan Kalverpolder](https://www.vogelwachtzaanstreek.nl/werkgroepen/docs/beheerplan_kalverpolder.pdf)
 
@@ -47,5 +47,3 @@ Er zijn lijsten met [planten](/blog/planten-in-de-kalverpolder/), [vissen](/dier
 [vlinders](/dieren/vlinders-in-de-kalverpolder/) en [libellen](/dieren/libellen-in-de-kalverpolder/). 
 De vogels zijn onderverdeeld in [broedvogels](/dieren/broedvogels-in-de-kalverpolder/) en [trekvogels](/dieren/trekvogels-in-de-kalverpolder/).
 {{% /aside %}}
-
-
