@@ -71,6 +71,17 @@ maar op 't laatst wel een weinig slap wordt, al behoudt zij dan toch zeer goed h
 ![Zoete Ermgaard](/images/zoete-ermgaard.jpg)
 {{% caption %}}Zoete Ermgaard{{% /caption %}} 
 
+### Honingzoetje
+
+Het Honingzoetje is een zeer oud ras, dat volgens de overlevering al rond 1750 voor kwam. 
+Het ras wordt nog af en toe nog aangetroffen in het noorden van het land.  
+
+Het is een zeer vroege hand- en potappel, de vruchten zijn eind juli, begin augustus rijp. 
+De vrucht is klein, strogeel van kleur en zeer zoet. Ze zijn slechts enkele dagen houdbaar. 
+
+De bomen kunnen flink groot worden. Draagt goed, maar kent beurtjaren.
+Het zijn gezonde bomen, en geschikt voor zowel zand- als veengrond. 
+
 ## Peren
 
 ### Noordhollandse Suikerpeer

@@ -7,6 +7,5 @@ draft: false
 Omdat men zegt dat we in een tijd leven waarin de natuur een beetje van slag is, de seizoenen wat vreemd door elkaar lopen, is het interessant om ook hier op het land te kijken waar de klok verkeerd loopt.
 
 
-**12 oktober 2018**
-
+**3 januari 2021**
 De [_Echte Koekoeksbloem_](/planten/echte-koekoeksbloem) bloeit weer op meerdere plekken. De bloeitijd is eigenlijk van mei to augustus.

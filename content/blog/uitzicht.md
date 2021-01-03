@@ -5,6 +5,9 @@ layout: full
 ---
 
 
+[![Land van Siem in oktober](/images/uitzicht18102020.jpg)](/images/uitzicht18102020.jpg)
+{{% caption %}}Foto van oktober 2020, klik voor vergroting. {{% /caption %}}
+
 [![Land van Siem in mei](/images/overzicht_zonnestralen_small.jpg)](/images/overzicht_zonnestralen.jpg)
 {{% caption %}}Foto van begin mei 2019, klik voor vergroting. {{% /caption %}}
 
