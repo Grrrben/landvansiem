@@ -45,6 +45,9 @@ Bij een + is dit aantal onbekend en bij een ? bestaat enkel het vermoeden.
 
 Deze lijst komt uit het [beheerplan Kalverpolder](https://www.vogelwachtzaanstreek.nl/werkgroepen/docs/beheerplan_kalverpolder.pdf).
 
+Aanvullingen door eigen waarneming:  
+Zwartkop
+
 {{% aside %}}
 ## Lijstjes
 Er zijn lijsten met [planten](/blog/planten-in-de-kalverpolder/), [vissen](/dieren/vissen-in-de-kalverpolder/), 

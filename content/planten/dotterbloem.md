@@ -3,6 +3,7 @@ title: "Dotterbloem"
 date: 2019-04-06T21:39:28+02:00
 draft: false
 dir: planten
+tags: ["dotterbloemgrasland", "eetbaar"]
 ---
 
 Het was een van de eerste bloemen van het jaar. 

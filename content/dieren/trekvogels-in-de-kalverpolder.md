@@ -14,20 +14,20 @@ De vogels met een [x] achter de naam zijn soorten die ik ook in het weiland heb 
 
 Naam    |      |  &nbsp;
 --------|------|------
-Aalscholver  | IJsvogel | Smelleken
+Aalscholver  | IJsvogel [x] | Smelleken
 Blauwe reiger [x] | Indische gans | Smient
 Blauwe kiekendief | Keep | Sperwer 
 Bontbekplevier | Kemphaan | Strommeeuw 
-Boomklever [x] | Kerkuil | Tapuit 
-Buizerd | Grote mantelmeeuw | Torenvalk 
+Boomklever [x] | Kerkuil [x] | Tapuit 
+Buizerd [x] | Grote mantelmeeuw | Torenvalk [x] 
 Dodaars | Kluut | Vlaamse gaai [x]
 Gele kwikstaart | Koperwiek | Waterral 
-Glanskop | Kramsvogel | Watersnip 
+Glanskop | Kramsvogel | Watersnip [x] 
 Goudhaan | Oeverloper | Wintertaling 
 Goudplevier | Pijlstaart | Wulp 
 Grauwe vliegenvanger | Putter [x] | Zanglijster 
-Grote zaagbek | Ringmus | Zilvermeeuw 
-Houtsnip | Rotgans [x] | Zwarte kraai 
+Grote zaagbek | Ringmus | Zilvermeeuw [x] 
+Houtsnip | Rotgans [x] | Zwarte kraai [x] 
 Huiszwaluw | Sijs | Zwarte mees 
 
 {{% aside %}}
