@@ -36,8 +36,8 @@ Zo zorgen ze dat de hommels per ongeluk doorgaan met bestuiven.
 
 De kleur en het patroon is dus geen variatie op de soort maar een sluwe overlevingsstrategie. 
 
-- In 2019 zijn er in totaal 6 rietorchissen geteld. 
-- De eerste orchis van 2020 is gespot op 11 april.
+- In 2019 zijn er 6 rietorchissen geteld. 
+- In 2020 zijn er 21 rietorchissen geteld. 
 
 [![Rietorchis](/images/rietorchis_2020_1.jpg)](/images/rietorchis_groot_2020_1.jpg)
 [![Rietorchis](/images/rietorchis_2020_2.jpg)](/images/rietorchis_groot_2020_2.jpg) 
